@@ -1,0 +1,20 @@
+/* Use this file to overwrites the template styles */
+
+.l-content,
+.m-map__filter {
+   background: white;
+}
+
+.l-content-wrapper, .nav--top {
+   background: transparent;
+}
+
+.l-content-header {
+   background: rgba(255,255,255,.7);
+}
+
+@media only screen and (max-width: 1040px) {
+    .nav--top {
+        background-color: white !important;
+    }
+}

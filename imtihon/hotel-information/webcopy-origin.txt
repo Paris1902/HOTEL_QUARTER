@@ -1,0 +1,2064 @@
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/css/main.min.css?d3e479823f508a50498cbf3252ab878126dd77af
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/css/overwrites.css?d3e479823f508a50498cbf3252ab878126dd77af
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\css\overwrites.css
+Content Type: text/css
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/css/theme.css?625419d30d550
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/fonts/icons-default.eot
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\fonts\icons-default.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/fonts/icons-default.eot?
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\fonts\icons-default-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/fonts/icons-default.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\fonts\icons-default.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/fonts/icons-default.ttf
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\fonts\icons-default.ttf
+Content Type: font/ttf
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/fonts/icons-default.woff
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\fonts\icons-default.woff
+Content Type: font/woff
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/ajax-loader.gif?d3e479823f508a50498cbf3252ab878126dd77af
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/br.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\br.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/de.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\de.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/en.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\en.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/es.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\es.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/fr.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/it.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\it.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/jp.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/nl.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/ph.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/pt.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/ru.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/tr.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/1x1/zh.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\1x1\zh.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/br.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\br.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/de.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\de.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/en.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\en.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/es.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\es.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/fr.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/it.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\it.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/jp.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/nl.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\nl.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/ph.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\ph.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/pt.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\pt.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/ru.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\ru.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/tr.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\tr.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/images/flags/4x3/zh.svg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\images\flags\4x3\zh.svg
+Content Type: image/svg+xml
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/js/languageManager.js?d3e479823f508a50498cbf3252ab878126dd77af
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\js\languageManager.js
+Content Type: application/javascript
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/js/main.js?d3e479823f508a50498cbf3252ab878126dd77af
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/assets/js/vendor.js?d3e479823f508a50498cbf3252ab878126dd77af
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\assets\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/favicons/favicon.png
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\favicons\favicon.png
+Content Type: image/png
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/185276959.jpg?w=350
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\185276959.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/185276959.jpg?w=700
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\185276959-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/bar/old-quarter-bar.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\bar\old-quarter-bar.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/bar/old-quarter-bar.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\bar\old-quarter-bar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/bar/old-quarter-bar.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\bar\old-quarter-bar-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/bar/old-quarter-bar.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\bar\old-quarter-bar-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/bath-room1.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\bath-room1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/bath-room1.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\bath-room1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/bath-room1.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\bath-room1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/bath-room1.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\bath-room1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/bath-room1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\bath-room1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q21-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q21-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q21-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q21-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q21-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q21-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q21-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q21-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q21-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q21-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q21-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q21-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q22-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q22-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q22-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q22-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q22-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q22-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q22-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q22-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q22-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q22-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q34-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q34-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q34-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q34-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q34-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q34-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q34-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q34-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q34-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q34-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q41-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q41-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q41-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q41-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q41-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q41-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q41-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q41-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/double-twin-canal/q41-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\double-twin-canal\q41-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-bathroom.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-bathroom-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room1.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room1.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room1.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room1.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room2.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room2.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room2.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room2.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/family-room/h1-room2.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\family-room\h1-room2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/googlemaps.jpg?w=350
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\googlemaps.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/googlemaps.jpg?w=700
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\googlemaps-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam-background72.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam-background72.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam-background72.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam-background72-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam-background72.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam-background72-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam-background72.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam-background72-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam_netherlands_houses_canal_night-72.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam_netherlands_houses_canal_night-72.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam_netherlands_houses_canal_night-72.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam_netherlands_houses_canal_night-72-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam_netherlands_houses_canal_night-72.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam_netherlands_houses_canal_night-72-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/amsterdam_netherlands_houses_canal_night-72.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\amsterdam_netherlands_houses_canal_night-72-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/canal-amsterdam-the-netherlands72.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\canal-amsterdam-the-netherlands72.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/canal-amsterdam-the-netherlands72.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\canal-amsterdam-the-netherlands72-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/canal-amsterdam-the-netherlands72.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\canal-amsterdam-the-netherlands72-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/canal-amsterdam-the-netherlands72.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\canal-amsterdam-the-netherlands72-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/front.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\front.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/front.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\front-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/front.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\front-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/front.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\front-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/oq-canal72.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\oq-canal72.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/oq-canal72.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\oq-canal72-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/oq-canal72.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\oq-canal72-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/home-gallery/oq-canal72.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\home-gallery\oq-canal72-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/amsterdam-background72.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\amsterdam-background72.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/amsterdam-background72.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\amsterdam-background72-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/amsterdam-background72.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\amsterdam-background72-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-5.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-5.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-5.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-6.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-6.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-6.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-6.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-7.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-7.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-7.jpg?w=365
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar-7.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar-7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar3.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar3.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/bar3.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\bar3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/googlemaps.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\googlemaps.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/googlemaps.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\googlemaps-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/hotel-general/googlemaps.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\hotel-general\googlemaps-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/img_5129.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\img_5129.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-2.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-2.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-2.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-2.jpg?w=350
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-2.jpg?w=700
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-2.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-8--2-.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-8--2-.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-8--2-.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-8--2--2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar-8--2-.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar-8--2--1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar2.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar2.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar2.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/bar2.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\bar2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/breakfast.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\breakfast.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/breakfast.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\breakfast-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/breakfast.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\breakfast-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/breakfast.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\breakfast-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/hotel-back.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\hotel-back.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/hotel-back.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\hotel-back-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/hotel-back.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\hotel-back-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/hotel-back.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\hotel-back-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/reception.jpg?w=350
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\reception.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/photo-gallery/reception.jpg?w=700
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\photo-gallery\reception-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/promotie-blokken/img_5129.jpg?w=350
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\promotie-blokken\img_5129.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/promotie-blokken/img_5129.jpg?w=700
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\promotie-blokken\img_5129-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/promotie-blokken/reception.jpg?w=350
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\promotie-blokken\reception.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/promotie-blokken/reception.jpg?w=700
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\promotie-blokken\reception-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room3.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room3.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room3.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room3.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q15-room3.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q15-room3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room2.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room2.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room2.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room2.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q42-room2.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q42-room2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q9-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q9-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q9-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q9-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q9-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q9-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q9-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q9-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/quad/q9-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\quad\q9-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/googlemaps.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\googlemaps.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/googlemaps.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\googlemaps-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/googlemaps.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\googlemaps-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q12-room.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q12-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q12-room.jpg?w=365
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q12-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q12-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q12-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q14-room.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q14-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q14-room.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q14-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q14-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q14-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q16-room1.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q16-room1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q16-room1.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q16-room1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q16-room1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q16-room1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q32-room-bk.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q32-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q32-room-bk.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q32-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q32-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q32-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q9-room.jpg
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q9-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q9-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q9-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q9-room.jpg?w=180
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q9-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q9-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q9-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/rooms/q9-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\rooms\q9-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q26-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q26-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q26-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q26-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q26-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q26-room-bk-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q26-room-bk.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q26-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q26-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q26-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q26-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q26-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q3-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q3-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q3-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q3-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q3-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q3-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q3-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q3-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q3-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q3-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q32-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q32-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q32-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q32-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q32-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q32-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q32-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q32-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q32-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q32-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q38-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q38-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q38-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q38-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q38-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q38-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q38-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q38-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q38-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q38-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q44-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q44-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q44-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q44-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q44-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q44-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q44-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q44-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/single-room/q44-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\single-room\q44-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q24-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q24-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q24-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q24-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q24-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q24-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q24-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q24-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q24-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q24-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q24-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q24-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q29-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q29-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q29-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q29-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q29-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q29-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q29-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q29-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q29-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q29-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q29-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q29-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-bathroom-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-bathroom-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-bathroom-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-bathroom-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-bathroom-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-bathroom-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-bathroom-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-bathroom-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-bathroom-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-bathroom-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-canal/q40-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-canal\q40-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/20161125_134707.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\20161125_134707-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/20161125_134707.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\20161125_134707-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/20161125_134707.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\20161125_134707-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/20161125_134707.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\20161125_134707.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/20161125_134707.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\20161125_134707-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/20161125_134707.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\20161125_134707-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q12-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q12-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q12-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q12-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q12-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q12-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q12-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q12-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q12-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q12-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q12-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q12-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room1.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room1.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room1.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room1.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room2.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room2.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room2.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room2.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q16-room2.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q16-room2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q7-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q7-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q7-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q7-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q7-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q7-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q7-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q7-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-private/q7-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-private\q7-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-shared/triple--2-.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-shared\triple--2--2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-shared/triple--2-.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-shared\triple--2-.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/triple-shared/triple--2-.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\triple-shared\triple--2--1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/h3-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\h3-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/h3-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\h3-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/h3-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\h3-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/h3-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\h3-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/h3-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\h3-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/h3-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\h3-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q14-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q14-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q14-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q14-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q14-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q14-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q14-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q14-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q14-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q14-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q30-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q30-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q30-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q30-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q30-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q30-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q30-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q30-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q30-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q30-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q33-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q33-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q33-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q33-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q33-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q33-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q33-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q33-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q33-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q33-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q4-room-bk.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q4-room-bk-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q4-room-bk.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q4-room-bk-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q4-room-bk.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q4-room-bk-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q4-room-bk.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q4-room-bk.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-double-private/q4-room-bk.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-double-private\q4-room-bk-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h1-bathroom1.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h1-bathroom1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h1-bathroom1.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h1-bathroom1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h1-bathroom1.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h1-bathroom1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h1-bathroom1.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h1-bathroom1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h1-bathroom1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h1-bathroom1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room.jpg?w=265
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room1.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room1.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room1.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room1.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h8-room1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h8-room1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room1.jpg?w=1200
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room1.jpg?w=1600
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room1.jpg?w=1920
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room1.jpg?w=750
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room1.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/images/twin-shared/h9-room1.jpg?w=800
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\images\twin-shared\h9-room1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d2nvhdi9yaxpb3.cloudfront.net/domain/oldquarter-com/upload/logos/site-logo.png
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\domain\oldquarter-com\upload\logos\site-logo.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=EB+Garamond
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v25/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\s\ebgaramond\v25\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LeRW_wcAAAAAIZSMM7FvAVHt-hlQg29rCoMbQFa
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.oldquarter.com/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/bar-and-restaurant/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\bar-and-restaurant\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/contact-us/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/bar/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\bar\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/contacto/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\contacto\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/galeria-de-fotos
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\galeria-de-fotos.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/galeria-de-fotos/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\galeria-de-fotos\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-doble-con-facilidades-compartidas
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-doble-con-facilidades-compartidas.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-doble-con-facilidades-compartidas/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-doble-con-facilidades-compartidas\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-doble-con-vista-al-canal
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-doble-con-vista-al-canal.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-doble-con-vista-al-canal/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-doble-con-vista-al-canal\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-doble-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-doble-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-doble-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-doble-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-individual
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-individual.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-individual/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-individual\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-quad-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-quad-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-quad-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-quad-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-triple-con-vista-al-canal
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-triple-con-vista-al-canal.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-triple-con-vista-al-canal/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-triple-con-vista-al-canal\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-triple-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-triple-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/habitaciones/habitacion-triple-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\habitaciones\habitacion-triple-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/informacion-adicional/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\informacion-adicional\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-doble-con-facilidades-compartidas
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-doble-con-facilidades-compartidas.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-doble-con-facilidades-compartidas/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-doble-con-facilidades-compartidas\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-doble-con-vista-al-canal
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-doble-con-vista-al-canal.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-doble-con-vista-al-canal/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-doble-con-vista-al-canal\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-doble-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-doble-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-doble-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-doble-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-individual
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-individual.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-individual/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-individual\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-quad-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-quad-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-quad-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-quad-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-triple-con-vista-al-canal
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-triple-con-vista-al-canal.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-triple-con-vista-al-canal/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-triple-con-vista-al-canal\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-triple-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-triple-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/kamers/habitacion-triple-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\kamers\habitacion-triple-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/la-ubicacion
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\la-ubicacion.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/la-ubicacion/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\la-ubicacion\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/offers/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\offers\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/opiniones
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\opiniones.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/opiniones/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\opiniones\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-doble-con-facilidades-compartidas
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-doble-con-facilidades-compartidas.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-doble-con-facilidades-compartidas/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-doble-con-facilidades-compartidas\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-doble-con-vista-al-canal
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-doble-con-vista-al-canal.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-doble-con-vista-al-canal/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-doble-con-vista-al-canal\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-doble-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-doble-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-doble-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-doble-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-individual
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-individual.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-individual/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-individual\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-quad-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-quad-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-quad-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-quad-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-triple-con-vista-al-canal
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-triple-con-vista-al-canal.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-triple-con-vista-al-canal/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-triple-con-vista-al-canal\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-triple-privada
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-triple-privada.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/es/rooms/habitacion-triple-privada/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\es\rooms\habitacion-triple-privada\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/canal-view-triple
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\canal-view-triple.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/canal-view-triple/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\canal-view-triple\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/canal-view-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\canal-view-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/canal-view-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\canal-view-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/shared-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\shared-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/shared-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\shared-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-family
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-family.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-family/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-family\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-quad
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-quad.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-quad/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-quad\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-single
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-single.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-single/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-single\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-triple
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-triple.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-triple/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-triple\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/habitaciones/standard-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\habitaciones\standard-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/hotel-information/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\hotel-information\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/informacion-adicional/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\informacion-adicional\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/canal-view-triple
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\canal-view-triple.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/canal-view-triple/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\canal-view-triple\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/canal-view-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\canal-view-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/canal-view-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\canal-view-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/shared-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\shared-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/shared-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\shared-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-family
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-family.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-family/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-family\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-quad
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-quad.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-quad/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-quad\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-single
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-single.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-single/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-single\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-triple
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-triple.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-triple/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-triple\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/kamers/standard-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\kamers\standard-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/location/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\location\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/bar-en-restaurant/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\bar-en-restaurant\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/contact/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/extra-informatie/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\extra-informatie\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/foto-gallerij
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\foto-gallerij.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/foto-gallerij/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\foto-gallerij\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/driepersoonskamer-met-grachtzicht
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\driepersoonskamer-met-grachtzicht.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/driepersoonskamer-met-grachtzicht/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\driepersoonskamer-met-grachtzicht\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/driepersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\driepersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/driepersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\driepersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/eenpersoonskamer
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\eenpersoonskamer.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/eenpersoonskamer/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\eenpersoonskamer\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/tweepersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\tweepersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/tweepersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\tweepersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/tweepersoonskamer-met-privefaciliteiten-en-grachtzicht
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\tweepersoonskamer-met-privefaciliteiten-en-grachtzicht.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/tweepersoonskamer-met-privefaciliteiten-en-grachtzicht/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\tweepersoonskamer-met-privefaciliteiten-en-grachtzicht\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/twin-kamer-met-gedeelde-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\twin-kamer-met-gedeelde-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/twin-kamer-met-gedeelde-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\twin-kamer-met-gedeelde-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/vierpersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\vierpersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/habitaciones/vierpersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\habitaciones\vierpersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/informacion-adicional/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\informacion-adicional\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/driepersoonskamer-met-grachtzicht
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\driepersoonskamer-met-grachtzicht.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/driepersoonskamer-met-grachtzicht/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\driepersoonskamer-met-grachtzicht\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/driepersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\driepersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/driepersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\driepersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/eenpersoonskamer
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\eenpersoonskamer.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/eenpersoonskamer/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\eenpersoonskamer\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/tweepersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\tweepersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/tweepersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\tweepersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/tweepersoonskamer-met-privefaciliteiten-en-grachtzicht
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\tweepersoonskamer-met-privefaciliteiten-en-grachtzicht.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/tweepersoonskamer-met-privefaciliteiten-en-grachtzicht/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\tweepersoonskamer-met-privefaciliteiten-en-grachtzicht\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/twin-kamer-met-gedeelde-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\twin-kamer-met-gedeelde-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/twin-kamer-met-gedeelde-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\twin-kamer-met-gedeelde-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/vierpersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\vierpersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/kamers/vierpersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\kamers\vierpersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/locatie/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\locatie\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/offers/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\offers\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/reviews
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\reviews.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/reviews/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\reviews\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/driepersoonskamer-met-grachtzicht
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\driepersoonskamer-met-grachtzicht.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/driepersoonskamer-met-grachtzicht/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\driepersoonskamer-met-grachtzicht\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/driepersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\driepersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/driepersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\driepersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/eenpersoonskamer
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\eenpersoonskamer.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/eenpersoonskamer/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\eenpersoonskamer\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/tweepersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\tweepersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/tweepersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\tweepersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/tweepersoonskamer-met-privefaciliteiten-en-grachtzicht
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\tweepersoonskamer-met-privefaciliteiten-en-grachtzicht.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/tweepersoonskamer-met-privefaciliteiten-en-grachtzicht/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\tweepersoonskamer-met-privefaciliteiten-en-grachtzicht\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/twin-kamer-met-gedeelde-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\twin-kamer-met-gedeelde-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/twin-kamer-met-gedeelde-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\twin-kamer-met-gedeelde-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/vierpersoonskamer-met-prive-faciliteiten
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\vierpersoonskamer-met-prive-faciliteiten.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/nl/rooms/vierpersoonskamer-met-prive-faciliteiten/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\nl\rooms\vierpersoonskamer-met-prive-faciliteiten\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/offers/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\offers\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/photo-gallery/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\photo-gallery\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/reviews/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\reviews\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/canal-view-triple
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\canal-view-triple.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/canal-view-triple/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\canal-view-triple\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/canal-view-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\canal-view-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/canal-view-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\canal-view-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/shared-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\shared-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/shared-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\shared-twin-double\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-family
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-family.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-family/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-family\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-quad
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-quad.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-quad/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-quad\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-single
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-single.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-single/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-single\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-triple
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-triple.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-triple/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-triple\index.htm
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-twin-double
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-twin-double.html
+Content Type: text/html
+
+Uri: https://www.oldquarter.com/rooms/standard-twin-double/
+File Name: C:\Downloaded Web Sites\www.oldquarter.com\rooms\standard-twin-double\index.htm
+Content Type: text/html
+
